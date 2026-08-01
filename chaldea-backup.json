@@ -179,10 +179,10 @@
             ],
             "appendSkills": [
               0,
+              1,
+              1,
               0,
-              0,
-              0,
-              0
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -294,8 +294,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -368,8 +368,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -518,8 +518,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {
               "200330": 1
@@ -594,8 +594,8 @@
               1,
               1,
               4,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {
               "201230": 1
@@ -633,8 +633,8 @@
               1,
               10,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -670,8 +670,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -745,7 +745,7 @@
               1,
               1,
               0,
-              0
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -781,8 +781,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -819,7 +819,7 @@
               1,
               1,
               0,
-              0
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -855,8 +855,8 @@
               1,
               1,
               4,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -892,8 +892,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {
               "400130": 1
@@ -968,8 +968,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {
               "400830": 0
@@ -1007,8 +1007,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -1089,8 +1089,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -1200,8 +1200,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -1274,8 +1274,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -1311,8 +1311,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -1348,8 +1348,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -1382,11 +1382,11 @@
               9
             ],
             "appendSkills": [
-              0,
               1,
-              0,
-              0,
-              0
+              1,
+              1,
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -1496,7 +1496,7 @@
               1,
               1,
               1,
-              0,
+              1,
               0
             ],
             "costumes": {},
@@ -1534,7 +1534,7 @@
               1,
               1,
               0,
-              0
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -1607,8 +1607,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -1641,11 +1641,11 @@
               4
             ],
             "appendSkills": [
-              0,
+              1,
               1,
               0,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {
               "601230": 1
@@ -1680,11 +1680,11 @@
               8
             ],
             "appendSkills": [
-              0,
               1,
               1,
-              0,
-              0
+              1,
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -1717,11 +1717,11 @@
               4
             ],
             "appendSkills": [
+              1,
+              1,
+              1,
               0,
-              0,
-              0,
-              0,
-              0
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -1868,8 +1868,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -1905,8 +1905,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -2013,11 +2013,11 @@
               8
             ],
             "appendSkills": [
-              0,
               1,
-              0,
-              0,
-              0
+              1,
+              1,
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -2050,11 +2050,11 @@
               4
             ],
             "appendSkills": [
-              0,
               1,
-              0,
-              0,
-              0
+              1,
+              1,
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -2090,8 +2090,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -2127,8 +2127,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {
               "701330": 0
@@ -2163,11 +2163,11 @@
               6
             ],
             "appendSkills": [
-              0,
+              1,
               1,
               0,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -2317,7 +2317,7 @@
               1,
               1,
               0,
-              0
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -2390,8 +2390,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -2427,8 +2427,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -2683,11 +2683,11 @@
               4
             ],
             "appendSkills": [
-              0,
               1,
               1,
-              0,
-              0
+              1,
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -2720,11 +2720,11 @@
               4
             ],
             "appendSkills": [
-              0,
               1,
               1,
-              0,
-              0
+              1,
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -2757,11 +2757,11 @@
               1
             ],
             "appendSkills": [
+              1,
+              1,
+              1,
               0,
-              0,
-              0,
-              0,
-              0
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -2985,8 +2985,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {
               "501030": 1
@@ -3024,8 +3024,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -3061,8 +3061,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -3475,11 +3475,11 @@
               6
             ],
             "appendSkills": [
+              1,
+              1,
               0,
-              0,
-              0,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -3591,8 +3591,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -3926,8 +3926,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -3963,8 +3963,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -4150,8 +4150,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -4409,8 +4409,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {
               "601930": 1
@@ -4674,8 +4674,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {
               "600930": 1
@@ -4713,8 +4713,8 @@
               1,
               1,
               6,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -5158,11 +5158,11 @@
               10
             ],
             "appendSkills": [
+              1,
+              1,
               0,
-              0,
-              0,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -5198,7 +5198,7 @@
               1,
               1,
               1,
-              0,
+              1,
               0
             ],
             "costumes": {},
@@ -5306,10 +5306,10 @@
               1
             ],
             "appendSkills": [
-              0,
-              0,
-              0,
-              0,
+              1,
+              1,
+              1,
+              1,
               0
             ],
             "costumes": {},
@@ -6083,11 +6083,11 @@
               6
             ],
             "appendSkills": [
+              1,
+              1,
               0,
-              0,
-              0,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -6533,7 +6533,7 @@
               1,
               1,
               0,
-              0
+              1
             ],
             "costumes": {
               "702830": 0
@@ -6980,8 +6980,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -7128,8 +7128,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -7165,8 +7165,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -7385,10 +7385,10 @@
             ],
             "appendSkills": [
               0,
-              0,
-              0,
-              0,
-              0
+              1,
+              1,
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -7606,11 +7606,11 @@
               6
             ],
             "appendSkills": [
-              0,
               1,
               1,
-              0,
-              0
+              1,
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -7907,11 +7907,11 @@
               9
             ],
             "appendSkills": [
+              1,
+              1,
               0,
-              0,
-              0,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -8206,7 +8206,7 @@
             ],
             "appendSkills": [
               0,
-              0,
+              1,
               0,
               0,
               0
@@ -8729,7 +8729,7 @@
             ],
             "appendSkills": [
               0,
-              0,
+              1,
               0,
               0,
               0
@@ -9104,8 +9104,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -9212,11 +9212,11 @@
               9
             ],
             "appendSkills": [
-              0,
               1,
               1,
-              0,
-              0
+              1,
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -9439,11 +9439,11 @@
               9
             ],
             "appendSkills": [
+              1,
+              1,
               0,
-              0,
-              0,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {
               "303830": 1
@@ -9520,8 +9520,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -9558,7 +9558,7 @@
               1,
               1,
               0,
-              0
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -9595,7 +9595,7 @@
               1,
               1,
               0,
-              0
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -9628,13 +9628,15 @@
               4
             ],
             "appendSkills": [
-              0,
-              0,
               1,
-              0,
-              0
+              1,
+              1,
+              1,
+              1
             ],
-            "costumes": {},
+            "costumes": {
+              "403430": 0
+            },
             "grail": 0,
             "fouHp": 0,
             "fouAtk": 0,
@@ -9668,7 +9670,7 @@
               1,
               10,
               1,
-              0,
+              1,
               0
             ],
             "costumes": {},
@@ -9705,8 +9707,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -9743,7 +9745,7 @@
               1,
               1,
               0,
-              0
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -9890,7 +9892,7 @@
             ],
             "appendSkills": [
               0,
-              0,
+              1,
               0,
               0,
               0
@@ -10152,11 +10154,11 @@
               9
             ],
             "appendSkills": [
+              1,
+              1,
               0,
               0,
-              0,
-              0,
-              0
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -10229,8 +10231,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {
               "403930": 0
@@ -10783,11 +10785,11 @@
               9
             ],
             "appendSkills": [
+              1,
+              1,
               0,
-              0,
-              0,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -11008,8 +11010,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {
               "204130": 1
@@ -11273,8 +11275,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -11986,7 +11988,7 @@
               1,
               1,
               0,
-              0
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -12208,7 +12210,7 @@
               1,
               1,
               0,
-              0
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -12282,7 +12284,7 @@
               1,
               1,
               0,
-              0
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -12356,7 +12358,7 @@
               10,
               1,
               0,
-              0
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -12652,7 +12654,7 @@
               1,
               1,
               0,
-              0
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -12762,8 +12764,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -13021,8 +13023,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -13169,8 +13171,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -13507,7 +13509,7 @@
               1,
               1,
               0,
-              0
+              1
             ],
             "costumes": {
               "604330": 0
@@ -13620,7 +13622,7 @@
               1,
               1,
               0,
-              0
+              1
             ],
             "costumes": {
               "901530": 0
@@ -13733,7 +13735,7 @@
               1,
               1,
               0,
-              0
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -14178,8 +14180,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -14550,8 +14552,8 @@
               1,
               1,
               1,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -14770,9 +14772,9 @@
             ],
             "appendSkills": [
               0,
+              1,
               0,
-              0,
-              0,
+              1,
               0
             ],
             "costumes": {},
@@ -14807,7 +14809,7 @@
             ],
             "appendSkills": [
               0,
-              0,
+              1,
               1,
               0,
               0
@@ -14917,11 +14919,11 @@
               9
             ],
             "appendSkills": [
-              0,
-              0,
-              0,
-              0,
-              0
+              1,
+              1,
+              1,
+              1,
+              1
             ],
             "costumes": {},
             "grail": 7,
@@ -14991,11 +14993,11 @@
               6
             ],
             "appendSkills": [
-              0,
+              1,
               10,
+              1,
               0,
-              0,
-              0
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -15140,10 +15142,10 @@
             ],
             "appendSkills": [
               0,
-              0,
-              0,
-              0,
-              0
+              1,
+              1,
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -15472,11 +15474,11 @@
               8
             ],
             "appendSkills": [
+              1,
+              1,
               0,
-              0,
-              0,
-              0,
-              0
+              1,
+              1
             ],
             "costumes": {},
             "grail": 0,
@@ -24242,7 +24244,9 @@
                 1,
                 1
               ],
-              "costumes": {},
+              "costumes": {
+                "403430": 1
+              },
               "grail": 0,
               "fouHp": 0,
               "fouAtk": 0,
@@ -29479,6 +29483,40 @@
             }
           },
           "limitEvents": {
+            "-10128985": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "-10128976": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "-10100780": {
               "enabled": false,
               "rerunGrails": 0,
@@ -53857,6 +53895,91 @@
               "extraItems": {},
               "customItems": {}
             },
+            "71702": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71703": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71704": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71705": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "71706": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
             "80000": {
               "enabled": false,
               "rerunGrails": 0,
@@ -60945,6 +61068,159 @@
               "extraFixedItems": {},
               "extraItems": {},
               "customItems": {}
+            },
+            "80615": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80616": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80617": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80618": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80619": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80620": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80621": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80622": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
+            },
+            "80623": {
+              "enabled": false,
+              "rerunGrails": 0,
+              "shop": true,
+              "shopBuyCount": {},
+              "point": true,
+              "mission": true,
+              "tower": true,
+              "lotteries": {},
+              "treasureBoxItems": {},
+              "fixedDrop": true,
+              "questReward": true,
+              "warBoard": true,
+              "extraFixedItems": {},
+              "extraItems": {},
+              "customItems": {}
             }
           },
           "mainStories": {
@@ -61920,6 +62196,13 @@
               ]
             },
             "202607": {
+              "counts": [
+                0,
+                0,
+                0
+              ]
+            },
+            "202608": {
               "counts": [
                 0,
                 0,
